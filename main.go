@@ -67,13 +67,20 @@ func (app *Main) UpdateImage(path string) {
 
 	// Resize the window to fit the new image
 	app.window.Resize(pixmap.Size())
-	app.window.Show()
 
 	padding := math.Floor(float64(height) / 24)
 	app.window.Move2(
 		int(width-pixmap.Width()-int(padding)),
 		int(padding),
 	)
+	// app.window.SetMask2(
+	// 	gui.NewQRegion3(app.window.FrameGeometry(), gui.QRegion__Rectangle) -
+	// 	gui.NewQRegion3(app.window.Geometry(), gui.QRegion__Rectangle) +
+	// 	app.window.ChildrenRegion(),
+	// )
+	// app.window.SetMask2(app.window.ChildrenRegion())
+	app.window.Show()
+
 	time.Sleep(app.timeout)
 
 	if time.Now().UTC().Sub(app.lastUpdate) >= app.timeout {
@@ -171,8 +178,8 @@ func onSystrayReady() {
 			select {
 			case <-mQuit.ClickedCh:
 				go mainApp.UpdateImage("keydisplay_off.svg")
-				close(mainApp.loop)
 				time.Sleep(mainApp.timeout)
+				close(mainApp.loop)
 				os.Exit(0)
 			case <-mToggle.ClickedCh:
 				if mainApp.active {
@@ -202,8 +209,9 @@ func main() {
 	mainApp.running, mainApp.stop = context.WithCancel(context.Background())
 
 	log("Make Window")
-	mainApp.window = widgets.NewQMainWindow(nil, core.Qt__FramelessWindowHint|core.Qt__WindowStaysOnTopHint)
+	mainApp.window = widgets.NewQMainWindow(nil, core.Qt__FramelessWindowHint|core.Qt__WindowStaysOnTopHint|core.Qt__SubWindow)
 	mainApp.window.SetAttribute(core.Qt__WA_TranslucentBackground, true)
+	mainApp.window.SetAttribute(core.Qt__WA_ShowWithoutActivating, true)
 	mainApp.window.SetWindowTitle("KeyDisplay")
 
 	log("Make Label")
