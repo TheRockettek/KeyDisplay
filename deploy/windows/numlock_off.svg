@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="100"
+   viewBox="0 0 79.374998 26.458335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="numlock_off.svg"
+   inkscape:export-filename="C:\Users\blane\Desktop\keydisplay\numlock_off.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0000002"
+     inkscape:cx="109.99938"
+     inkscape:cy="69.02884"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1378"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="false"
+     inkscape:pagecheckerboard="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <rect
+       style="fill:#5f5f5f;fill-opacity:0.89502761;fill-rule:nonzero;stroke:none;stroke-width:0.5785681;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.30000019;stroke-dasharray:none;stroke-opacity:0.94117647;paint-order:markers fill stroke"
+       id="rect815-9"
+       width="79.375"
+       height="26.458334"
+       x="1.9073486e-06"
+       y="270.54166"
+       ry="5.3370457"
+       rx="5.3370457" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58316231px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#3b3b3b;fill-opacity:1;stroke:none;stroke-width:0.26457906;"
+       x="65.99778"
+       y="287.62662"
+       id="text830"
+       transform="scale(0.999983,1.000017)"><tspan
+         sodipodi:role="line"
+         id="tspan828"
+         x="65.99778"
+         y="287.62662"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58316231px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3b3b3b;fill-opacity:1;stroke-width:0.26457906;">1</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.80089375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.30000019;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect826"
+       width="13.166138"
+       height="13.166586"
+       x="59.563431"
+       y="277.18796"
+       rx="2.6242507"
+       ry="2.6242507" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.29917431px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.46495873"
+       x="29.13183"
+       y="286.80319"
+       id="text829-2"><tspan
+         id="tspan1400-2"
+         sodipodi:role="line"
+         x="29.13183"
+         y="286.80319"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:0px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.46495873">NumLock Off</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4548"
+       d="m 60.301301,277.92586 11.690401,11.6908"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.09193542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

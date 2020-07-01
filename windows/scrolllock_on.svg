@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="100"
+   viewBox="0 0 79.374998 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="scrollock_on.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.136442"
+     inkscape:cx="114.01981"
+     inkscape:cy="54.387958"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g837"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1322"
+     inkscape:window-height="488"
+     inkscape:window-x="589"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <rect
+       style="fill:#5f5f5f;fill-opacity:0.89502764;fill-rule:nonzero;stroke:none;stroke-width:0.5785681;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.30000019;stroke-dasharray:none;stroke-opacity:0.94117647;paint-order:markers fill stroke"
+       id="rect815"
+       width="79.375"
+       height="26.458334"
+       x="-5.5511151e-17"
+       y="270.54166"
+       ry="5.3370457"
+       rx="5.3370457" />
+    <g
+       id="g837"
+       transform="matrix(1.7573244,0,0,1.7573244,-19.009508,-225.2976)"
+       style="fill:#ffffff;fill-opacity:1;opacity:1">
+      <text
+         id="text829"
+         y="291.40936"
+         x="27.394678"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81793022px;line-height:0px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="291.40936"
+           x="27.394678"
+           sodipodi:role="line"
+           id="tspan1400">ScrollLock On</tspan></text>
+      <path
+         id="path822"
+         d="m 50.057466,289.44881 v -0.35288 c 0,-0.32934 -0.329352,-0.58812 -0.658702,-0.58812 -0.329351,0 -0.658701,0.25878 -0.658701,0.58812 v 0.35288 c -0.141156,0 -0.282302,0.14109 -0.282302,0.28229 v 0.82338 c 0,0.16468 0.141157,0.30582 0.282302,0.30582 h 1.293878 c 0.164675,0 0.305825,-0.14109 0.305825,-0.28229 v -0.82338 c 0,-0.16467 -0.141156,-0.30582 -0.2823,-0.30582 m -0.305827,0 h -0.705751 v -0.35288 c 0,-0.1882 0.164676,-0.30583 0.352876,-0.30583 0.1882,0 0.352875,0.11766 0.352875,0.30583 v 0.35288 m -1.999628,-1.17626 h 0.70575 l -0.941001,-0.94099 -0.941002,0.94099 h 0.705752 v 2.82301 h -0.705752 l 0.941002,0.94099 0.941001,-0.94099 h -0.70575 z"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.23525044" />
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.80086237;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.30000019;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect826"
+       width="13.166138"
+       height="13.166586"
+       x="59.563431"
+       y="277.18796"
+       rx="2.6242507"
+       ry="2.6242507" />
+  </g>
+</svg>
